@@ -1,3 +1,5 @@
+// takes a user input number and verifies.
+
 import java.util.Scanner;
 public class VerifyEntier {
 
